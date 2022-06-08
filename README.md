@@ -2,8 +2,8 @@
 
 ## Links :
 
-[Heroku App]()
+[Heroku App](https://esraa-api-server.herokuapp.com/)
 
 [GitHub Actions](https://github.com/EsraaBanat/api-server/actions)
 
-[PR Link]()
+[PR Link](https://github.com/EsraaBanat/api-server/pull/2)
